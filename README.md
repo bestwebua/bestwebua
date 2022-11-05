@@ -10,29 +10,29 @@ Welcome to my personal GitHub profile! I'm software engineer from 🇺🇦 Ukrai
 
 ## My principles
 
-> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live" (c) John Woods*
+> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." - John F. Woods*
 
 I take to code quality very seriously. It doesn't matter to me if it's closed commercial code or Open Source code. It should still be well written, have 100% test coverage and be documented as well. For case when I can choose between speed and **quality** of code I'll choose the second one.
 
 ## Open Source
 
-I've been actively working on Open Source Software for over 3 years, while having a full-time job at the same time. During this time I have created [`truemail-rb`](https://truemail-rb.org) and [`mocktools`](https://github.com/mocktools) organizations to organize these code. Here is the short list of the projects that I have created and currently maintaining on.
+I've been actively working on Open Source Software for over 3 years, while having a full-time job at the same time. During this time I have created [`truemail-rb`](https://truemail-rb.org) and [`mocktools`](https://github.com/mocktools) organizations to organize these code. Here is the short list of the projects that I have created and currently maintaining on. Many of them have been repeatedly announced on [RubyWeekly](https://rubyweekly.com) digest.
 
 | Name | Language | Description |
 | --- | --- | --- |
 | [`truemail`](https://github.com/truemail-rb/truemail) | `Ruby` | Configurable framework agnostic plain Ruby email validator/verifier |
-| [`go-smtp-mock`](https://github.com/mocktools/go-smtp-mock) | `Golang` | SMTP mock server written on Golang. Library that can mimic any SMTP server behaviour for test environment |
-| [`truemail-rack-docker`](https://github.com/truemail-rb/truemail-rack-docker-image) | `Docker` | Lightweight rack based web API dockerized image of Truemail Server |
+| [`go-smtp-mock`](https://github.com/mocktools/go-smtp-mock) | `Golang` | Library (mock server) that can mimic any SMTP server behaviour for test environment |
+| [`truemail docker`](https://github.com/truemail-rb/truemail-rack-docker-image) | `Docker` | Lightweight rack based web API dockerized image of Truemail Server |
 | [`ruby-dns-mock`](https://github.com/mocktools/ruby-dns-mock) | `Ruby` | Library that can mimic any DNS records for test environment |
 | [`truemail-go`](https://github.com/truemail-rb/truemail-go) | `Golang` | Configurable email validator/verifier |
 | [`truemail server`](https://github.com/truemail-rb/truemail-rack) | `Ruby` | Lightweight rack based web API wrapper for Truemail Ruby gem |
-| [`truemail-crystal-client`](https://github.com/truemail-rb/truemail-crystal-client) | `Crystal` | Web API Crystal client for Truemail Server |
+| [`truemail-ruby-client`](https://github.com/truemail-rb/truemail-ruby-client) | `Ruby` | Web API client for Truemail Server |
 | [`rom-mongo`](https://github.com/bestwebua/rom-mongo) | `Ruby` | MongoDB adapter for ROM |
 | [`frs`](https://github.com/RubyWorkout/frs) | `Bash` | Script for configuring developer stuff on Linux Ubuntu in minutes |
 | [`ruby-smtp-mock`](https://github.com/mocktools/ruby-smtp-mock) | `Ruby` | Flexible Ruby wrapper over smtpmock |
-| [`truemail-ruby-client`](https://github.com/truemail-rb/truemail-ruby-client) | `Ruby` | Web API Ruby client for Truemail Server |
-| [`truemail-java-client`](https://github.com/truemail-rb/truemail-java-client) | `Java` | Web API Java client for Truemail Server |
+| [`truemail-java-client`](https://github.com/truemail-rb/truemail-java-client) | `Java` | Web API client for Truemail Server |
 | [`truemail-rspec`](https://github.com/truemail-rb/truemail-rspec) | `Ruby` | Truemail RSpec helpers |
+| [`truemail-crystal-client`](https://github.com/truemail-rb/truemail-crystal-client) | `Crystal` | Web API client for Truemail Server |
 
 ## Business connections
 
