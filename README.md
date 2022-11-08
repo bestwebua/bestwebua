@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-vladislav.trotsenko-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-trotsenko)](https://www.linkedin.com/in/vladislav-trotsenko) [![Codewars](https://www.codewars.com/users/bestwebua/badges/micro)](https://www.codewars.com/users/bestwebua)
 
-Welcome to my personal GitHub profile! I'm software engineer from 🇺🇦 Ukraine, currrently located in Poland, Kraków. I'm backend developer with a sysadmin background, who inspired by Ruby, Go, Crystal and scalable microservice architecture. I have work experience as team player, mentor, independent open source developer and technical speaker from time to time.
+Welcome to my personal GitHub profile! I'm software engineer from 🇺🇦 Ukraine, currrently located in Poland, Kraków. I'm backend developer with a sysadmin background, who inspired by Ruby, Go, Crystal and scalable microservice architecture. I have work experience as team player, mentor, independent open source developer and technical speaker/interviewer from time to time.
 
 ## Languages and tools
 
