@@ -16,7 +16,7 @@ I take to code quality very seriously. It doesn't matter to me if it's closed co
 
 ## Open Source
 
-I've been actively working on Open Source Software for over 3 years, while having a full-time job at the same time. During this time I have created [`truemail-rb`](https://truemail-rb.org) and [`mocktools`](https://github.com/mocktools) organizations to organize these code. Here is the short list of the projects that I have created and currently maintaining on. Many of them have been repeatedly announced on [RubyWeekly](https://rubyweekly.com) digest.
+I've been actively working on Open Source Software for over 3 years, while having a full-time job at the same time. During this time I have created [`truemail-rb`](https://truemail-rb.org) and [`mocktools`](https://github.com/mocktools) organizations to organize these code. Here is the short list of the projects that I have created and currently maintaining on. Many of them have been mentioned on [Awesome Ruby](https://awesome-ruby.com), [Awesome Go](https://awesome-go.com) and repeatedly announced on [RubyWeekly](https://rubyweekly.com) digest.
 
 | Name | Language | Description |
 | --- | --- | --- |
