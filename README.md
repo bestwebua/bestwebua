@@ -34,6 +34,12 @@ I've been actively working on Open Source Software for over 3 years, while havin
 | [`truemail-rspec`](https://github.com/truemail-rb/truemail-rspec) | `Ruby` | Truemail RSpec helpers |
 | [`truemail-crystal-client`](https://github.com/truemail-rb/truemail-crystal-client) | `Crystal` | Web API client for Truemail Server |
 
+## Public speaking slides
+
+- Pivorak Online Edition #3: [From Ruby gem to microservice](https://slides.com/vladislavtrotsenko/truemail-rack)
+- RubyMeditation #29: [Building Rails RESTful API with Trailblazer. How to better streamline the business logic of the application?](https://slides.com/vladislavtrotsenko/building-rails-restful-api-with-trailblazer-how-to-better-streamline-the-business-logic-of-the-application)
+- RubyMeditation #27: [Email address validation techniques](https://slides.com/vladislavtrotsenko/truemail)
+
 ## Business connections
 
 I am always open to new opportunities. Feel free to ask me directly on [email](admin@bestweb.com.ua) or via [LinkedIn](https://www.linkedin.com/in/vladislav-trotsenko).
