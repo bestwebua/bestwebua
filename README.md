@@ -36,6 +36,7 @@ I've been actively working on Open Source Software for over 3 years, while havin
 
 ## Public speaking slides
 
+- [Building RESTful microservices with Roda template](https://slides.com/vladislavtrotsenko/building-restful-api-with-roda-template)
 - Pivorak Online Edition #3: [From Ruby gem to microservice](https://slides.com/vladislavtrotsenko/truemail-rack)
 - RubyMeditation #29: [Building Rails RESTful API with Trailblazer. How to better streamline the business logic of the application?](https://slides.com/vladislavtrotsenko/building-rails-restful-api-with-trailblazer-how-to-better-streamline-the-business-logic-of-the-application)
 - RubyMeditation #27: [Email address validation techniques](https://slides.com/vladislavtrotsenko/truemail)
