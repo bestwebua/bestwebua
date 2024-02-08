@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-vladislav.trotsenko-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-trotsenko)](https://www.linkedin.com/in/vladislav-trotsenko) [![Codewars](https://www.codewars.com/users/bestwebua/badges/micro)](https://www.codewars.com/users/bestwebua)
 
-Welcome to my personal GitHub profile! I'm software engineer from 🇺🇦 Ukraine, currrently located in Spain, Barcelona. I'm backend developer with a sysadmin background, who inspired by Ruby, Go, Crystal and scalable microservice architecture. I have work experience as team player, mentor, independent open source developer and technical speaker/interviewer from time to time.
+Welcome to my personal GitHub profile! I'm software engineer from 🇺🇦 Ukraine, currently living in Spain, Barcelona. I'm backend developer with a sysadmin background, who inspired by Ruby, Go, Crystal and scalable microservice architecture. I have work experience as team player, mentor, independent open source developer and technical speaker/interviewer from time to time.
 
 ## Languages and tools
 
@@ -16,7 +16,7 @@ I take to code quality very seriously. It doesn't matter to me if it's closed co
 
 ## Open Source
 
-I've been actively working on Open Source Software for over 3 years, while having a full-time job at the same time. During this time I have created [`truemail-rb`](https://truemail-rb.org) and [`mocktools`](https://github.com/mocktools) organizations to organize these code. Here is the short list of the projects that I have created and currently maintaining on. Many of them have been mentioned on [Awesome Ruby](https://awesome-ruby.com), [Awesome Go](https://awesome-go.com) and repeatedly announced on [RubyWeekly](https://rubyweekly.com) digest.
+I've been actively working on Open Source Software for over 5 years, while having a full-time job at the same time. During this time I have created [`truemail-rb`](https://truemail-rb.org) and [`mocktools`](https://github.com/mocktools) organizations to organize these code. Here is the short list of the projects that I have created and currently maintaining on. Many of them have been mentioned on [Awesome Ruby](https://awesome-ruby.com), [Awesome Go](https://awesome-go.com) and repeatedly announced on [RubyWeekly](https://rubyweekly.com) digest.
 
 | Name | Language | Description |
 | --- | --- | --- |
