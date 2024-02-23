@@ -21,7 +21,7 @@ I've been actively working on Open Source Software for over 5 years, while havin
 | Name | Language | Description |
 | --- | --- | --- |
 | [`truemail`](https://github.com/truemail-rb/truemail) | `Ruby` | Configurable framework agnostic plain Ruby email validator/verifier |
-| [`go-smtp-mock`](https://github.com/mocktools/go-smtp-mock) | `Golang` | Mock server that can mimic any SMTP server behaviour for test environment |
+| [`go-smtp-mock`](https://github.com/mocktools/go-smtp-mock) | `Golang` | Mock server that can mimic any SMTP server behavior for test environment |
 | [`truemail docker`](https://github.com/truemail-rb/truemail-rack-docker-image) | `Docker` | Lightweight rack based web API dockerized image of Truemail Server |
 | [`ruby-dns-mock`](https://github.com/mocktools/ruby-dns-mock) | `Ruby` | Library that can mimic any DNS records for test environment |
 | [`truemail-go`](https://github.com/truemail-rb/truemail-go) | `Golang` | Configurable email validator/verifier |
