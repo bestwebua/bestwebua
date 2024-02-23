@@ -25,11 +25,11 @@ I've been actively working on Open Source Software for over 5 years, while havin
 | [`truemail docker`](https://github.com/truemail-rb/truemail-rack-docker-image) | `Docker` | Lightweight rack based web API dockerized image of Truemail Server |
 | [`ruby-dns-mock`](https://github.com/mocktools/ruby-dns-mock) | `Ruby` | Library that can mimic any DNS records for test environment |
 | [`truemail-go`](https://github.com/truemail-rb/truemail-go) | `Golang` | Configurable email validator/verifier |
+| [`ruby-smtp-mock`](https://github.com/mocktools/ruby-smtp-mock) | `Ruby` | Flexible Ruby wrapper over `smtpmock` |
 | [`truemail server`](https://github.com/truemail-rb/truemail-rack) | `Ruby` | Lightweight rack based web API wrapper for Truemail Ruby gem |
 | [`truemail-ruby-client`](https://github.com/truemail-rb/truemail-ruby-client) | `Ruby` | Web API client for Truemail Server |
 | [`rom-mongo`](https://github.com/bestwebua/rom-mongo) | `Ruby` | MongoDB adapter for ROM |
 | [`frs`](https://github.com/RubyWorkout/frs) | `Bash` | Script for configuring developer stuff on Linux Ubuntu in minutes |
-| [`ruby-smtp-mock`](https://github.com/mocktools/ruby-smtp-mock) | `Ruby` | Flexible Ruby wrapper over smtpmock |
 | [`truemail-java-client`](https://github.com/truemail-rb/truemail-java-client) | `Java` | Web API client for Truemail Server |
 | [`truemail-rspec`](https://github.com/truemail-rb/truemail-rspec) | `Ruby` | Truemail RSpec helpers |
 | [`truemail-crystal-client`](https://github.com/truemail-rb/truemail-crystal-client) | `Crystal` | Web API client for Truemail Server |
