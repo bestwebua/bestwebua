@@ -28,8 +28,10 @@ I've been actively working on Open Source Software for over 5 years, while havin
 | [`ruby-smtp-mock`](https://github.com/mocktools/ruby-smtp-mock) | `Ruby` | Flexible Ruby wrapper over `smtpmock` |
 | [`truemail server`](https://github.com/truemail-rb/truemail-rack) | `Ruby` | Lightweight rack based web API wrapper for Truemail Ruby gem |
 | [`truemail-ruby-client`](https://github.com/truemail-rb/truemail-ruby-client) | `Ruby` | Web API client for Truemail Server |
+| [`on_strum-healthcheck`](https://github.com/on-strum/ruby-on-strum-healthcheck) | `Ruby` | Configurable rack middleware for Docker/Kubernetes healthchecks probes |
 | [`rom-mongo`](https://github.com/bestwebua/rom-mongo) | `Ruby` | MongoDB adapter for ROM |
 | [`frs`](https://github.com/RubyWorkout/frs) | `Bash` | Script for configuring developer stuff on Linux Ubuntu in minutes |
+| [`on_strum-logs`](https://github.com/on-strum/ruby-on-strum-logs) | `Ruby` | Simple configurable structured logger with JSON formatter out of the box |
 | [`truemail-java-client`](https://github.com/truemail-rb/truemail-java-client) | `Java` | Web API client for Truemail Server |
 | [`truemail-rspec`](https://github.com/truemail-rb/truemail-rspec) | `Ruby` | Truemail RSpec helpers |
 | [`truemail-crystal-client`](https://github.com/truemail-rb/truemail-crystal-client) | `Crystal` | Web API client for Truemail Server |
