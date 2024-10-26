@@ -16,7 +16,7 @@ I take to code quality very seriously. It doesn't matter to me if it's closed co
 
 ## Open Source
 
-I've been actively working on Open Source Software for over 5 years, while having a full-time job at the same time. During this time I have created [`truemail-rb`](https://truemail-rb.org) and [`mocktools`](https://github.com/mocktools) organizations to organize these code. I'm also an active contributor of [`on-strum`](https://github.com/on-strum). Here is the short list of the projects that I have created and currently maintaining on. Many of them have been mentioned on [Awesome Ruby](https://awesome-ruby.com), [Awesome Go](https://awesome-go.com) and repeatedly announced on [RubyWeekly](https://rubyweekly.com) digest.
+I've been actively working on Open Source Software for over 5 years, while having a full-time job at the same time. During this time I have created [`truemail-rb`](https://truemail-rb.org), [`mocktools`](https://github.com/mocktools) and [`obstools`](https://github.com/obstools) organizations to organize these code. Here is the short list of the projects that I have created and currently maintaining on. Many of them have been mentioned on [Awesome Ruby](https://awesome-ruby.com), [Awesome Go](https://awesome-go.com) and repeatedly announced on [RubyWeekly](https://rubyweekly.com) digest.
 
 | Name | Language | Description |
 | --- | --- | --- |
@@ -24,11 +24,12 @@ I've been actively working on Open Source Software for over 5 years, while havin
 | [`go-smtp-mock`](https://github.com/mocktools/go-smtp-mock) | `Golang` | Mock server that can mimic any SMTP server behavior for test environment |
 | [`truemail docker`](https://github.com/truemail-rb/truemail-rack-docker-image) | `Docker` | Lightweight rack based web API dockerized image of Truemail Server |
 | [`ruby-dns-mock`](https://github.com/mocktools/ruby-dns-mock) | `Ruby` | Library that can mimic any DNS records for test environment |
+| [`healthcheck_endpoint`](https://github.com/obstools/healthcheck-endpoint) | `Ruby` | Configurable rack middleware for Docker/Kubernetes healthchecks probes |
 | [`truemail-go`](https://github.com/truemail-rb/truemail-go) | `Golang` | Configurable email validator/verifier |
 | [`ruby-smtp-mock`](https://github.com/mocktools/ruby-smtp-mock) | `Ruby` | Flexible Ruby wrapper over `smtpmock` |
+| [`heartbeat`](https://github.com/obstools/go-prometheus-heartbeat-exporter) | `Golang` | Configurable multithreaded Prometheus heartbeat (smokeping) exporter |
 | [`truemail server`](https://github.com/truemail-rb/truemail-rack) | `Ruby` | Lightweight rack based web API wrapper for Truemail Ruby gem |
 | [`truemail-ruby-client`](https://github.com/truemail-rb/truemail-ruby-client) | `Ruby` | Web API client for Truemail Server |
-| [`on_strum-healthcheck`](https://github.com/on-strum/ruby-on-strum-healthcheck) | `Ruby` | Configurable rack middleware for Docker/Kubernetes healthchecks probes |
 | [`rom-mongo`](https://github.com/bestwebua/rom-mongo) | `Ruby` | MongoDB adapter for ROM |
 | [`frs`](https://github.com/RubyWorkout/frs) | `Bash` | Script for configuring developer stuff on Linux Ubuntu in minutes |
 | [`on_strum-logs`](https://github.com/on-strum/ruby-on-strum-logs) | `Ruby` | Simple configurable structured logger with JSON formatter out of the box |
