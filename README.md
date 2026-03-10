@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-vladislav.trotsenko-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-trotsenko)](https://www.linkedin.com/in/vladislav-trotsenko) [![Codewars](https://www.codewars.com/users/bestwebua/badges/micro)](https://www.codewars.com/users/bestwebua)
 
-Welcome to my personal GitHub profile! I'm a software engineer from 🇺🇦 Ukraine, currently living in Spain, Barcelona. I'm a backend developer with a sysadmin background, who inspired by Ruby, Go, Crystal and scalable microservice architecture. I have work experience as team player, mentor, independent open source developer and technical speaker/interviewer from time to time.
+Welcome to my personal GitHub profile! I'm a software engineer from 🇺🇦 Ukraine, currently based in Barcelona, Spain. I'm a backend developer with a sysadmin background, passionate about Ruby, Go, and Crystal. Interested in scalable distributed systems, open source, and building reliable software. I enjoy mentoring, collaborating in teams, and occasionally speaking at tech events.
 
 ## Languages and tools
 
@@ -12,7 +12,7 @@ Welcome to my personal GitHub profile! I'm a software engineer from 🇺🇦 Ukr
 
 > *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." - John F. Woods*
 
-I take to code quality very seriously. It doesn't matter to me if it's closed commercial code or Open Source code. It should still be well written, have 100% test coverage and be documented as well. For case when I can choose between speed and **quality** of code I'll choose the second one.
+I care deeply about code quality — clean architecture, strong testing culture, and well-documented systems. At the same time, I'm strongly business-oriented and enjoy aligning engineering with product goals to deliver features that create real value for users and drive measurable impact.
 
 ## Open Source
 
@@ -32,7 +32,6 @@ I've been actively working on Open Source Software for over 5 years, while havin
 | [`truemail-ruby-client`](https://github.com/truemail-rb/truemail-ruby-client) | `Ruby` | Web API client for Truemail Server |
 | [`rom-mongo`](https://github.com/bestwebua/rom-mongo) | `Ruby` | MongoDB adapter for ROM |
 | [`frs`](https://github.com/RubyWorkout/frs) | `Bash` | Script for configuring developer stuff on Linux Ubuntu in minutes |
-| [`on_strum-logs`](https://github.com/on-strum/ruby-on-strum-logs) | `Ruby` | Simple configurable structured logger with JSON formatter out of the box |
 | [`truemail-java-client`](https://github.com/truemail-rb/truemail-java-client) | `Java` | Web API client for Truemail Server |
 | [`truemail-rspec`](https://github.com/truemail-rb/truemail-rspec) | `Ruby` | Truemail RSpec helpers |
 | [`truemail-crystal-client`](https://github.com/truemail-rb/truemail-crystal-client) | `Crystal` | Web API client for Truemail Server |
